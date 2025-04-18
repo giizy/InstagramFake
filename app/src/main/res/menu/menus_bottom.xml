@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mHome"
+        android:icon="@drawable/baseline_home"
+        android:title=""
+        />
+    <item
+        android:id="@+id/mSearch"
+        android:icon="@drawable/baseline_search"
+        android:title="" />
+    <item
+        android:id="@+id/mSeemore"
+        android:icon="@drawable/baseline_add"
+        android:title="" />
+    <item
+        android:id="@+id/mVideos"
+        android:icon="@drawable/baseline_video_library"
+        android:title="" />
+    <item
+        android:id="@+id/mProfile"
+        android:icon="@drawable/iconeperfil"
+        android:title="" />
+
+
+</menu>
