@@ -4,24 +4,24 @@
     <item
         android:id="@+id/mHome"
         android:icon="@drawable/baseline_home"
-        android:title=""
+        android:title="Home"
         />
     <item
         android:id="@+id/mSearch"
         android:icon="@drawable/baseline_search"
-        android:title="" />
+        android:title="Search" />
     <item
-        android:id="@+id/mSeemore"
+        android:id="@+id/mMore"
         android:icon="@drawable/baseline_add"
-        android:title="" />
+        android:title="More" />
     <item
         android:id="@+id/mVideos"
         android:icon="@drawable/baseline_video_library"
-        android:title="" />
+        android:title="Videos" />
     <item
         android:id="@+id/mProfile"
-        android:icon="@drawable/iconeperfil"
-        android:title="" />
+        android:icon="@drawable/baseline_circle"
+        android:title="Profile" />
 
 
 </menu>
